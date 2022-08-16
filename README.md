@@ -1,7 +1,5 @@
 # Submission-BFAA1-Dicoding
-===================================
 Submission 1 : Aplikasi Guthub User
-===================================
 Kriteria :
 - Menampilkan data pada halaman aplikasi dengan minimal jumlah 10 item. (Terpenuhi)
 - Menggunakan RecyclerView. (Terpenuhi)
